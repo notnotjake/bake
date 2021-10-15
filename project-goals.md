@@ -7,6 +7,8 @@
 - should it be encapsulated or should it inherit css
 
 
+should items that aren't affected be stored in publish or source? we dont want dupes if we can help it...
+
 have all the source stuff in main directory and build in a publish directory
 have all the built stuff in root and have source in a source directory
 have build in publish dir and source in source dir
